@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m currently looking for a DevOps job in Waterloo-Kitchener area.
+- 👯 I’m currently looking for a DevOps job in Canada Waterloo-Kitchener area or remote.
 - 💬 Ask me about DevOps and Observability.
 - 😄 Pronouns: He/Him
 
