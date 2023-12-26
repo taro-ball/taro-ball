@@ -2,7 +2,6 @@
 
 - 👯 I’m currently looking for a DevOps job in Canada Waterloo-Kitchener area or remote.
 - 💬 Ask me about DevOps and Observability.
-- 😄 Pronouns: He/Him
 
 Hello! I'm an SRE/DevOps Engineer with around 10 years of experience, where I've had the chance to work in diverse environments like startups, large companies, and government projects. My journey has been about more than just technology; I've also had the opportunity to lead teams and delve into cloud technologies such as AWS, GCP, Azure, and tools like Atlassian and GitLab.
 
